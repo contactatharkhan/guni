@@ -1,7 +1,4 @@
-
-
 /* Navbar */
-
 #main{
     margin-left: 286px;
     width:64.6px;
@@ -13,28 +10,8 @@
     height: 31.3px;
     border-radius: 3px;
 }
-#main1{
-   
-}
 /* Section1 */
-#rect{
-    position: absolute;
-    width: 282.3px;
-    height: 329.67px;
-}
-#rect2{
-    position: absolute;
-    width: 469px;
-    height: 346.3px;
-}
-#rect3{
-    position: absolute;
-    width: 362.97px;
-    height: 243.09px;
-    top: 39.96px;
-    left: 57.962px;
-}
-#main1 button{
+#word button{
     width: 130.53px;
     box-sizing: border-box;
     height: 36.63px;
@@ -44,40 +21,37 @@
     border-radius: 5px;
     margin-top: 24.642px;
 }
-#main1 h4{
+#word h4{
     font-weight: 900;
+    font-size: 26.64px;
 }
 #word{
     display: flex;
     flex-direction: column;
     justify-content: center;
     height: 329.67px;
-    padding-left: 35px;
 }
 /* section 2 */
-#main2{
-}
-#main2 h6{
+#title{
     font-weight: 900;
+    font-size: 19.314px;
 }
-#main2 p{
+#para{
     font-size: 15.98px;
     font-weight: 400;
-}
-#main2 .container{
-    position: absolute;
-    width: 732px;
-    height: 182.5px;
-    top:777.9px;
-    left: 285.7px;
-    padding: 0;
 }
 #group{
     width: 505.5px;
     height: 177.8px;
 }
+/* section 3 */
 #main3{
-   
+    position: absolute;
+    height: 648.684px;
+    width: 715.9px;
+    top: 1001.44px;
+    left: 302.364px;
+    padding: 0%;
 }
 #main3 h6{
     font-size: 13.32px;
@@ -177,11 +151,16 @@
     position: absolute;
     height: 869.796;
     width: 100%;
-    top: 826.506px;
+    top: 886.506px;
 }
 /* Section 4 */
 #main4{
-  
+    position: absolute;
+    height: 775.89px;
+    width: 755.91px;
+    top: 1716.3px;
+    padding: 0%;
+    left: 254.412px;
 }
 #rect5{
     width: 282.3px;
